@@ -35,5 +35,5 @@ set PYTHONIOENCODING=utf-8
 
 Create a `.env` file in the `Local_Tool` directory and set the variables mentioned in the `.env.dist`.
 
-### 4. Fragen
-Ask if you don't know a parameter.
+### 4. Questions
+Ask if you don't know a parameter. 
