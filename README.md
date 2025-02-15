@@ -45,15 +45,24 @@ Please complete the tasks as quickly as possible. Try to behave as you would whe
 
 ### Steps before starting the tasks:
 
+Access the Gamification API
+- visit: https://gamification-api.loca.lt
+- Enter the same password as before to gain access. No further actions are required here.
+
 Access the Gamification Website:
 - Go to: https://gamification-website.loca.lt/
 - You will need a password to access the site. Please request the password before proceeding.
 - Once logged in, use the key 0ef32462-d999-4a7c-be73-5e97e2caa95e to join a project.
 - Choose a name for yourself within the project.
 
-Access the Gamification API
-- visit: https://gamification-api.loca.lt
-- Enter the same password as before to gain access. No further actions are required here.
+In the Test Repository:
+```sh
+pip install pre_commit
+```
+
+```sh
+ore-commit install
+```
 
 After completing these steps, you can proceed with the tasks.
 
