@@ -1,20 +1,20 @@
 # gamification-security-tool
 
-Dieses Repository enthält das lokale Tool zur Bewertung eines Gamification-Systems in einer Studie. Das Tool benötigt Zugriff auf eine API und eine Website, um zu funktionieren. Ohne diese Komponenten liefert es keine aussagekräftigen Ergebnisse. Teilnehmer werden es während der Bewertung installieren und verwenden.
+This repository contains the local tool for evaluating a gamification system in a study. The tool requires access to an API and a website to function. Without these components, it will not produce meaningful results. Participants will install and use it during the evaluation.
 
 ## Installation & Setup
 
-Um das Tool für die Studie zu verwenden, folgen Sie diesen Schritten:
+To use the tool for the study, follow these steps:
 
-### 1. Repository klonen
+### 1. Clone repository
 ```sh
 git clone https://github.com/your-username/gamification-security-tool.git
 cd gamification-security-tool
 pip install -e .
 ```
 
-### 2. Pre-Commit-Hook konfigurieren
-Erstellen Sie in dem Repository, in dem Sie das Tool verwenden möchten, eine `.pre-commit-config.yml` mit folgendem Inhalt:
+### 2. Configure pre-commit hook
+In the repository where you want to use the tool, create a `.pre-commit-config.yml` with the following content:
 ```yaml
 repos:
   - repo: local
@@ -26,14 +26,14 @@ repos:
         verbose: true
 ```
 
-### 3. Umgebungsvariablen setzen
+### 3. Setting environment variables
 Öffnen Sie ein Terminal und führen Sie die folgenden Befehle aus:
 ```sh
 set PYTHONPATH=C:\Path\to\your\gamification-security-tool\installation
 set PYTHONIOENCODING=utf-8
 ```
 
-Erstellen Sie eine `.env`-Datei im Verzeichnis `Local_Tool` und setzen Sie die Variablen, die in der `.env.dist` erwähnt sind.
+Create a `.env` file in the `Local_Tool` directory and set the variables mentioned in the `.env.dist`.
 
 ### 4. Fragen
-Fragen Sie nach, wenn Sie einen Parameter nicht kennen.
+Ask if you don't know a parameter.
