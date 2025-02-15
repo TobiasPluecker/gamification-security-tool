@@ -61,7 +61,7 @@ pip install pre_commit
 ```
 
 ```sh
-ore-commit install
+pre-commit install
 ```
 
 After completing these steps, you can proceed with the tasks.
