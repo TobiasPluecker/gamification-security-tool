@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: local_tool
+Version: 1.0
+Summary: Ein Pre-Commit-Sicherheitscheck-Tool
+Requires-Dist: colorama
+Requires-Dist: detect-secrets
+Requires-Dist: bandit
+Requires-Dist: pathspec
+Dynamic: requires-dist
+Dynamic: summary

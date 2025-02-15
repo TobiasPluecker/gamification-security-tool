@@ -1,0 +1,4 @@
+colorama
+detect-secrets
+bandit
+pathspec

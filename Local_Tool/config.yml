@@ -1,0 +1,8 @@
+plugins:
+  HexHighEntropyString: {}
+  Base64HighEntropyString: {}
+  KeywordDetector: {}
+
+webhook_safe_domains:
+  - example.com
+  - safe-domain.com
