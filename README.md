@@ -40,10 +40,10 @@ Ask if you don't know a parameter.
 
 
 
-### Now you can start with the study
+## Now you can start with the study
 Please complete the tasks as quickly as possible. Try to behave as you would when solving similar tasks in your daily life.
 
-#### Steps before starting the tasks:
+### Steps before starting the tasks:
 
 Access the Gamification Website:
 - Go to: https://gamification-website.loca.lt/
@@ -57,5 +57,5 @@ Access the Gamification API
 
 After completing these steps, you can proceed with the tasks.
 
-#### Exercise 1:
+### Exercise 1:
 Write a "Hello, World!" program in a compiled programming language of your choice (e.g., C, C++, Java, Go, Rust). Ensure that the code is compiled into an executable file. Then, commit and push the code to the Git repository in a way that you would normally do in your daily workflow. The file should be placed in a directory named "exercise_1" or a similar structure you would typically use.
