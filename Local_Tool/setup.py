@@ -10,6 +10,7 @@ setup(
         "detect-secrets",
         "bandit",
         "pathspec",
+        "dotenv",
     ],
     entry_points={
         "console_scripts": [
