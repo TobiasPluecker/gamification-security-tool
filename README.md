@@ -36,4 +36,26 @@ set PYTHONIOENCODING=utf-8
 Create a `.env` file in the `Local_Tool` directory and set the variables mentioned in the `.env.dist`.
 
 ### 4. Questions
-Ask if you don't know a parameter. 
+Ask if you don't know a parameter.
+
+
+
+### Now you can start with the study
+Please complete the tasks as quickly as possible. Try to behave as you would when solving similar tasks in your daily life.
+
+#### Steps before starting the tasks:
+
+Access the Gamification Website:
+- Go to: https://gamification-website.loca.lt/
+- You will need a password to access the site. Please request the password before proceeding.
+- Once logged in, use the key 0ef32462-d999-4a7c-be73-5e97e2caa95e to join a project.
+- Choose a name for yourself within the project.
+
+Access the Gamification API
+- visit: https://gamification-api.loca.lt
+- Enter the same password as before to gain access. No further actions are required here.
+
+After completing these steps, you can proceed with the tasks.
+
+#### Exercise 1:
+Write a "Hello, World!" program in a compiled programming language of your choice (e.g., C, C++, Java, Go, Rust). Ensure that the code is compiled into an executable file. Then, commit and push the code to the Git repository in a way that you would normally do in your daily workflow. The file should be placed in a directory named "exercise_1" or a similar structure you would typically use.
