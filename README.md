@@ -78,3 +78,4 @@ Instructions:
 - API Endpoint: https://gamification-api.loca.lt/study/get-secret-data
 - Bearer Token: 123456789abcdef
 - Submission: Commit the script to the given test repository.
+- If you need help: https://gamification-api.loca.lt/docs#/Study/get_data_study_get_secret_data_get
