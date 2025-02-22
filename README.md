@@ -27,7 +27,7 @@ repos:
 ```
 
 ### 3. Setting environment variables
-Öffnen Sie ein Terminal und führen Sie die folgenden Befehle aus:
+Open a terminal and set:
 ```sh
 set PYTHONPATH=C:\Path\to\your\gamification-security-tool\installation
 set PYTHONIOENCODING=utf-8
