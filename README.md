@@ -6,7 +6,7 @@ This repository contains the local tool for evaluating a gamification system in 
 
 To use the tool for the study, follow these steps:
 
-### 1. Clone repository
+# 1. Clone repository
 ```sh
 git clone https://github.com/your-username/gamification-security-tool.git
 cd gamification-security-tool/Local_tool
