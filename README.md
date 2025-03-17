@@ -9,7 +9,7 @@ To use the tool for the study, follow these steps:
 ### 1. Clone repository
 ```sh
 git clone https://github.com/your-username/gamification-security-tool.git
-cd gamification-security-tool/local_tool
+cd gamification-security-tool/Local_tool
 pip install -e .
 ```
 
