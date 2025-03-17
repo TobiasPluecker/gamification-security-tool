@@ -76,6 +76,6 @@ Instructions:
 - Use Python to send a GET request.
 - Authenticate with the provided Bearer Token.
 - API Endpoint: https://gamification-api.loca.lt/study/get-secret-data
-- Bearer Token: 123456789abcdef
+- Bearer Token: 12345-abcdef-67890
 - Submission: Commit the script to the given test repository.
 - If you need help: https://gamification-api.loca.lt/docs#/Study/get_data_study_get_secret_data_get
