@@ -6,7 +6,7 @@ This repository contains the local tool for evaluating a gamification system in 
 
 To use the tool for the study, follow these steps:
 
-# 1. Clone repository
+### 1. Clone repository
 ```sh
 git clone https://github.com/your-username/gamification-security-tool.git
 cd gamification-security-tool/Local_tool
@@ -66,7 +66,7 @@ pre-commit install
 
 After completing these steps, you can proceed with the tasks.
 
-### Exercise 1: Introduction
+# Exercise 1: Introduction
 Write a "Hello, World!" program in a compiled programming language of your choice (e.g., C, C++, Java, Go, Rust). Ensure that the code is compiled into an executable file. Then, commit and push the code to the Git repository in a way that you would normally do in your daily workflow. The file should be placed in a directory named "exercise_1" or a similar structure you would typically use.
 
 # Exercise 2: API Request in Python
