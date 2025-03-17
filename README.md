@@ -83,7 +83,7 @@ Write a "Hello, World!" program in a compiled programming language of your choic
 
 2. **Authentication**  
    - Use the **Bearer Token** for authentication.  
-   - Provided token: `12345-abcdef-67890`.
+   - Provided token: `12345abcdef67890`.
 
 3. **API Endpoint**  
    - Send the GET request to the following endpoint:  
